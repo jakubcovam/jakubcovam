@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michala Jakubcova, a Postdoc at the Institute of Thermomechanics of the Czech Academy of Sciences.
 - 👀 I’m interested in data analysis and visualization, numerical modeling and artificial neural networks.
-- 🌱 I’m currently learning Python and OpenFOAM for numerical simulations of turbulent flow in the atmospheric boundary layer.
+- 🌱 I’m currently learning Python for data science, and OpenFOAM for numerical simulations of turbulent flow in the atmospheric boundary layer.
 - 📫 You can reach me at michala.jakubcova@gmail.com
 
 <!---
