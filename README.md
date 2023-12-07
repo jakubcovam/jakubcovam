@@ -1,9 +1,16 @@
-**Hi there, welcome to my GitHub Profile **
+## **Hi, welcome to my GitHub Profile!**
 
-- 👋 I’m Michala Jakubcova, a Postdoc at the Institute of Thermomechanics of the Czech Academy of Sciences.
-- 👀 I’m interested in data analysis and visualization, numerical modeling and artificial neural networks.
-- 🌱 I’m currently learning Python for data science, and OpenFOAM for numerical simulations of turbulent flow in the atmospheric boundary layer.
-- 📫 You can reach me at michala.jakubcova@gmail.com
+### About me:
+- 👩‍💻 I’m a Postdoc at the Institute of Thermomechanics of the Czech Academy of Sciences.
+- 👍 I’m interested in data analysis and visualization, numerical modeling and machine learning models.
+- 🛠️ I'm currently working on predictions of pollutants in air using ML models.
+- ✉️ You can reach me at michala.jakubcova@gmail.com
+
+### Languages and tools I enjoy to work with:
+- 🤖 Python, R
+- 🤖 OpenFOAM, ANSYS Fluent, FreeCAD
+- 🤖 LaTeX
+
 
 <!---
 jakubcovam/jakubcovam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
