@@ -6,10 +6,10 @@
 - 🛠️ I'm currently working on predictions of pollutants in air using ML models.
 - ✉️ You can reach me at michala.jakubcova@gmail.com
 
-### Languages and tools I enjoy to work with:
+### Languages and tools I enjoy working with:
 - 🤖 Python, R
+- 🤖 LaTeX, 
 - 🤖 OpenFOAM, ANSYS Fluent, FreeCAD
-- 🤖 LaTeX
 
 
 <!---
