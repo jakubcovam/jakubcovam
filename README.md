@@ -8,7 +8,7 @@
 
 ### Languages and tools I enjoy working with:
 - 🤖 Python, R
-- 🤖 LaTeX, 
+- 🤖 LaTeX
 - 🤖 OpenFOAM, ANSYS Fluent, FreeCAD
 
 
